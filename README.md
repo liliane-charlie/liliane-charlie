@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Hello world</h1>
 
 ###
 
-<p align="center">My name is Liliane Charlie EKATH OUTEKELEK</p>
+<h3 align="center">My name is Liliane Charlie EKATH OUTEKELEK</h3>
 
 ###
 
@@ -44,6 +44,16 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/C4D03AQFkjWIOHoCpfg/profile-displayphoto-shrink_800_800/0/1527246216720?e=1724284800&v=beta&t=u7CIZopYDKTZjxO5cWmlCkcXe1BMeZisbeUC-_CqVbk"  />
+</div>
+
+###
+
+<h5 align="left">Social Media</h5>
+
+###
+
 <div align="left">
   <a href="www.linkedin.com/in/charlie-liliane-outekelek-ekath-947b7b52" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -51,12 +61,6 @@
   <a href="lilianecharlie" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4D03AQFkjWIOHoCpfg/profile-displayphoto-shrink_800_800/0/1527246216720?e=1724284800&v=beta&t=u7CIZopYDKTZjxO5cWmlCkcXe1BMeZisbeUC-_CqVbk"  />
 </div>
 
 ###
