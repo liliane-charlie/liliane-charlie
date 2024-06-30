@@ -44,9 +44,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4D03AQFkjWIOHoCpfg/profile-displayphoto-shrink_800_800/0/1527246216720?e=1724284800&v=beta&t=u7CIZopYDKTZjxO5cWmlCkcXe1BMeZisbeUC-_CqVbk"  />
-</div>
+
 
 ###
 
